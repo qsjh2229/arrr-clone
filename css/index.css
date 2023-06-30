@@ -358,6 +358,16 @@ video{width: 100%; height: auto; }
   .footer-top-icon .f-icon-ul{display: flex; height: 100%; align-items: center; justify-content: end; padding-right: 3%;}
   .footer-top-icon .f-icon-ul li{width: 40px; height: 40px;}
 
+  .fb-wrap .f-c-text{color: #477a7b; font-weight: bold;}
+  .fb-wrap{width: 100%; background: rgb(255, 247, 237);}
+  .footer-bot{margin-bottom: 30px; font-size: 11px;color: #696969; max-width:1000px ;padding-top: 5%; display: flex; text-align: left; margin: 0 auto;}
+  .footer-bot .footer-l{width: 60%;}
+  .footer-l img{ width: 20%;}
+  .footer-l-m{margin-bottom: 20px; line-height: 17px;}
+  .footer-bot .footer-m{width: 20%;}
+  .footer-bot .footer-r{width: 20%;}
+  .footer-bot span{margin-bottom: 20px; color: #477a7b; font-size: 15px; font-weight: bold;}
+
 
   @keyframes bgmove {
     0%   {top: 0px; }
@@ -593,6 +603,9 @@ header .inner .header-top{height: 2rem; }
 .header-top span a{font-size: 0.3rem;}
 .p-list{width: calc(50% - 10px); height: 320px; }
 }
+
+
+
 
 
 
